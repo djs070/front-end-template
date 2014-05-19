@@ -1,4 +1,4 @@
-Not the worst template bootstrap I've ever made. Gulp, livereload, sass, bootstrap and bourbon
+Not the worst template bootstrap I've ever made. Picked the best parts out of H5BP, gulp, livereload, sass, bootstrap and bourbon
 
 ## Getting started
 
