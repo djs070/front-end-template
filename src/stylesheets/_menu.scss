@@ -1,0 +1,17 @@
+.MainNav {
+	ul {
+		margin: 0;
+		padding: 0;
+		float: right;
+	}
+	li {
+		float: left;
+	}
+	a {
+		display: block;
+		border: 1px solid blue;
+		text-align: center;
+		min-width: 40px;
+		margin-left: 12px;
+	}
+}
